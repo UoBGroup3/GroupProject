@@ -8,10 +8,10 @@ Road traffic wellbeing is a significant angle in each country as it keeps reside
 
 ## Content
 ```
-Analysis (Containing the final analysis of this course work using Weka)
-Data (Raw selected data in csv used for this analysis)
-Database Scripts (This are the scripts used to process the raw data to give the final data used for analysis in Microsoft Sql Server)
-Report (This contains the summary of this course work)
+- Analysis (Containing the final analysis of this course work using Weka)
+- Data (Raw selected data in csv used for this analysis)
+- Database Scripts (This are the scripts used to process the raw data to give the final data used for analysis in Microsoft Sql Server)
+- Report (This contains the summary of this course work)
 ```
 
 ## Contributors
