@@ -4,7 +4,7 @@
 
 COS7048-B MSc Group Project on Road Traffic Wellbeing. 
 
-Road traffic wellbeing is a significant angle in each country as it keeps residents safe and forestalls wounds also, fatalities. ![image](https://user-images.githubusercontent.com/7771255/111619195-2e586800-87dd-11eb-9c35-280bc8304dee.png)
+Road traffic wellbeing is a significant angle in each country as it keeps residents safe and forestalls wounds also, fatalities.
 
 ## Content
 ```
