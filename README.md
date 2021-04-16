@@ -16,7 +16,6 @@ Road traffic wellbeing is a significant angle in each country as it keeps reside
 
 ## Contributors
 
-* [Ali Mohammed](https://github.com/AliMaysara) - 20002497
 * [Eniga Ahiante](https://github.com/eniga) - 20026427
 * [Ethan Daniel - 17022218]
 * [Funmilayo Celestina Ayeni](https://github.com/Celestina-ayeni) - 19022115
